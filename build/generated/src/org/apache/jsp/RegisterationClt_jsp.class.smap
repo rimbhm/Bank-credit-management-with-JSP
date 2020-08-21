@@ -1,0 +1,21 @@
+SMAP
+RegisterationClt_jsp.java
+JSP
+*S JSP
+*F
++ 0 RegisterationClt.jsp
+RegisterationClt.jsp
++ 1 conexion.jsp
+conexion.jsp
+*L
+5,4:54
+5#1,5:57
+10,15:61
+24:76
+8#0,37:77
+54:114
+56,21:116
+76,59:137
+135:196,3
+136,24:199
+*E

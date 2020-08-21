@@ -1,0 +1,12 @@
+SMAP
+auto_jsp.java
+JSP
+*S JSP
+*F
++ 0 auto.jsp
+auto.jsp
+*L
+5,38:46
+43,4:85
+46,525:89
+*E

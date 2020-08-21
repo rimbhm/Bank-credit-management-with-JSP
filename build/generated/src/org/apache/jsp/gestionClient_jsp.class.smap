@@ -1,0 +1,18 @@
+SMAP
+gestionClient_jsp.java
+JSP
+*S JSP
+*F
++ 0 gestionClient.jsp
+gestionClient.jsp
+*L
+5,46:48
+51,4:95
+54,94:99
+148,16:194
+163,2:210
+165,13:212,3
+178,3:251
+181,7:255
+187,48:262
+*E
